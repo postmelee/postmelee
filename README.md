@@ -1,17 +1,23 @@
 ### Entrepreneur 👽
-UX Driven Development 🧠  
-- 📖 CS, Kangnam University  
-- 🥷 Interested In Startup, UI/UX, IT, IOS  
-- 🤟 Big fan: Seotaiji, Guckkasten  
-- 👻 Currently learning Swift, SwiftUI, RxSwift
-- 👯 Looking to collaborate on React-Native Projects
-<a href="https://github.com/postmelee/github-readme-stats">
-  <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api?username=postmelee&show_icons=true&count_private=true" />
-</a>
-<a href="https://github.com/postmelee/github-readme-stats">
-  <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=postmelee" />
-</a>
-
+UX Driven Development 🧠
+<div display="inline">
+  <table >
+    <td>
+  <ul>
+    <li> 📖 CS, Kangnam University </li>
+<li> 🥷 Interested In Startup, UI/UX, IT, IOS </li>
+<li> 🤟 Big fan: Seotaiji, Guckkasten </li>
+<li> 👻 Currently learning Swift, SwiftUI, RxSwift </li>
+<li> 👯 Looking to collaborate on React-Native Projects </li>
+  </ul>
+    </td>
+    <td>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=postmelee"/>
+ </a>
+    </td>
+</div>
+  
 <!--
 **postmelee/postmelee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
