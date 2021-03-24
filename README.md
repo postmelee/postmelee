@@ -1,6 +1,17 @@
-### Hi there 👋
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpostmelee%2Fhit-counter&count_bg=%23C21479&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![postmelee's GitHub stats](https://github-readme-stats.vercel.app/api?username=postmelee)](https://github.com/postmelee/github-readme-stats)
+### Entrepreneur 👽
+UX Driven Development 🧠  
+- 📖 CS, Kangnam University  
+- 🥷 Interested In Startup, UI/UX, IT, IOS  
+- 🤟 Big fan: Seotaiji, Guckkasten  
+- 👻 Currently learning Swift, SwiftUI, RxSwift
+- 👯 Looking to collaborate on React-Native Projects
+<a href="https://github.com/postmelee/github-readme-stats">
+  <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api?username=postmelee&show_icons=true&count_private=true" />
+</a>
+<a href="https://github.com/postmelee/github-readme-stats">
+  <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=postmelee" />
+</a>
+
 <!--
 **postmelee/postmelee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
