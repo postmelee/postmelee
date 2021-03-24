@@ -1,5 +1,5 @@
 ### Entrepreneur 👽
-UX Driven Development 🧠
+UX Driven Development
 <div display="inline">
   <table >
     <td>
