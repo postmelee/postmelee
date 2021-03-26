@@ -1,5 +1,7 @@
 ### Entrepreneur 👽
-UX Driven Development
+**Tech Stack**
+- **Language**: Javascript, TypeScript, Swift, C, Python
+- **Skills** : React Native, React.js, Node.js, Mongoose, MongoDB, TensorFlow, OpenCV, Docker, AWS EC2, AWS S3, Travis CI
 <div display="inline">
   <table >
     <td>
@@ -7,7 +9,7 @@ UX Driven Development
     <li> 📖 CS, Kangnam University </li>
 <li> 🥷 Interested In Startup, UI/UX, IT, IOS </li>
 <li> 🤟 Big fan: Seotaiji, Guckkasten </li>
-<li> 👻 Currently learning Swift, SwiftUI, RxSwift </li>
+<li> 👻 Currently learning Swift, SwiftUI, RxSwift, MVVM </li>
 <li> 👯 Looking to collaborate on React-Native Projects </li>
   </ul>
     </td>
