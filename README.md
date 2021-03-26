@@ -1,5 +1,4 @@
 ### Entrepreneur 👽
-**Tech Stack**
 - **Language**: Javascript, TypeScript, Swift, C, Python
 - **Skills** : React Native, React.js, Node.js, Mongoose, MongoDB, TensorFlow, OpenCV, Docker, AWS EC2, AWS S3, Travis CI
 <div display="inline">
