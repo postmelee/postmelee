@@ -1,6 +1,6 @@
 ### Entrepreneur 👽
 - **Language**: Javascript, TypeScript, Swift, C, Python
-- **Skills** : React Native, React.js, Node.js, Mongoose, MongoDB, TensorFlow, OpenCV, Docker, AWS EC2, AWS S3, Travis CI
+- **Skills** : React Native, React.js, Node.js, TensorFlow, OpenCV, AWS EC2, AWS S3, Travis CI
 - Old Account: https://github.com/dlxorb1012
 <div display="inline">
   <table >
