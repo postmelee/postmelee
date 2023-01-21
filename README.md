@@ -1,6 +1,6 @@
-### Entrepreneur 👽
+### Pligrim, Nomad Life
 - **Language**: Javascript, TypeScript, Swift, C, Python
-- **Skills** : React Native, React.js, Node.js, TensorFlow, OpenCV, AWS EC2, AWS S3, Travis CI
+- **Skills** : React Native, React.js, Node.js, (TensorFlow, OpenCV, AWS EC2, AWS S3, Travis CI)
 - Old Account: https://github.com/dlxorb1012
 <div display="inline">
   <table >
@@ -10,7 +10,7 @@
 <li> 🥷 Interested In Startup, UI/UX, IT, IOS </li>
 <li> 🤟 Big fan: Seotaiji, Guckkasten </li>
 <li> 👻 Currently learning Swift, SwiftUI, RxSwift, MVVM </li>
-<li> 👯 Looking to collaborate on React-Native Projects </li>
+<li> 👯 Looking for a project that needs to handle huge traffic </li>
   </ul>
     </td>
     <td>
