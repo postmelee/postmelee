@@ -1,5 +1,8 @@
-### Pligrim, Nomad Life
+### Pligrim, Nomad Coder
+
 Always Jazz house and Coffee in Workspace
+<br/>
+- Currently learning Nextjs, Tailwind
 - Old Account: https://github.com/dlxorb1012
 <div display="inline">
 </div>
