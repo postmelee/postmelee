@@ -1,11 +1,13 @@
 ### Pligrim, Nomad Coder
 
 Always Jazz house and ☕️ in my Workspace
-<br/>
-- 🕶️ Currently learning Nextjs, Tailwind
-- Old Account: https://github.com/dlxorb1012
-<div display="inline">
+<br>
+- Currnetly learning Next.js and Tailwind
+<div>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
 </div>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tgkojffehydttzptcg2d1dnxt&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=tgkojffehydttzptcg2d1dnxt&redirect=true)
   
 <!--
 **postmelee/postmelee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
