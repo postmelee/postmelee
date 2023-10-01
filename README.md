@@ -1,8 +1,8 @@
 ### Pligrim, Nomad Coder
 
-Always Jazz house and Coffee in Workspace
+Always Jazz house and ☕️ in my Workspace
 <br/>
-- Currently learning Nextjs, Tailwind
+- 🕶️ Currently learning Nextjs, Tailwind
 - Old Account: https://github.com/dlxorb1012
 <div display="inline">
 </div>
