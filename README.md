@@ -1,6 +1,6 @@
 ## Pligrim, Nomad Coder
 
-Always Jazz house and ☕️ in my Workspace !
+### Always Jazz house and ☕️ in my Workspace !
 ### About Me
 - <b>Interested in</b>... UX and UI Design, TDD, Folder Structure Pattern and Software Design Pattern
 - <b>Currnetly learning</b>... Next.js and Tailwind
