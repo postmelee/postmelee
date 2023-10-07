@@ -1,7 +1,8 @@
 ## Pligrim, Nomad Coder
 
-### Always Jazz house and ☕️ in my Workspace !
+#### Always Jazz house and ☕️ in my Workspace !
 ### About Me
+#### Frontend Developer working toward Full Stack
 - <b>Interested in</b>... UX and UI Design, TDD, Folder Structure Pattern and Software Design Pattern
 - <b>Currnetly learning</b>... Next.js and Tailwind
 - <b>Currently working on</b>... The Ultimate Frontend Architecture
@@ -12,7 +13,7 @@
 
 
 ### <b>Certified Pilgrim</b>
-  - Camino de Santiago <img height="20" src="https://vivecamino.com/img/gal/concha-de-senalizacion-del-camino-de-santiago_7742_p.jpg"/>  (06.07.2022 ~ 09.08.2022)
+  - Camino de Santiago (06.07.2022 ~ 09.08.2022) <img height="20" src="https://vivecamino.com/img/gal/concha-de-senalizacion-del-camino-de-santiago_7742_p.jpg"/>
     - Camino Francés - 780km
     - Camino de Fisterra y Muxía -120km
 
