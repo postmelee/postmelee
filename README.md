@@ -1,6 +1,4 @@
-### **Taegyu Lee**, CS student based in Korea
-
-> I no longer write code. I **think**, **design**, and **make decisions**.
+### **Taegyu Lee**
 
 [![Tokscale Stats](https://tokscale.ai/api/embed/postmelee/svg?compact=1)](https://tokscale.ai/u/postmelee)
 
