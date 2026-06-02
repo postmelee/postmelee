@@ -1,4 +1,5 @@
 ### **Taegyu Lee**
+CS student, Korea
 
 [![Tokscale Stats](https://tokscale.ai/api/embed/postmelee/svg?compact=1)](https://tokscale.ai/u/postmelee)
 
@@ -8,3 +9,4 @@ Every project I build runs through [Hyper-Waterfall](https://github.com/postmele
 
 - Working on: [`rhwp`](https://github.com/edwardkim/rhwp), [`alhangeul-macos`](https://github.com/postmelee/alhangeul-macos), [`hyper-waterfall`](https://github.com/postmelee/hyper-waterfall)
 - Interested in: Expo(React Native), React, iOS/macOS
+- hire me! meleeisdeveloping@gmail.com
