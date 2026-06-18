@@ -1,6 +1,8 @@
 ### **Taegyu Lee**
 CS student, Korea
 
+Portfolio: https://github.com/postmelee/portfolio
+
 [![Tokscale Stats](https://tokscale.ai/api/embed/postmelee/svg?compact=1)](https://tokscale.ai/u/postmelee)
 
 #### Personal experience into shared understanding, and solve problems through software.
