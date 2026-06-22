@@ -10,7 +10,7 @@ Every project I build runs through [Hyper-Waterfall](https://github.com/postmele
 - Interested in: Expo(React Native), React, iOS/macOS
 - hire me! meleeisdeveloping@gmail.com
 ---
-Portfolio: https://github.com/postmelee/portfolio
+Portfolio: https://postmelee.github.io/portfolio/
 
-Liquid Glass Portfolio: https://postmelee.github.io/liquid-portfolio/ 
+Liquid Glass Portfolio: https://postmelee.github.io/liquid-portfolio/
 > requires WebGPU. DOM-backed Html content also requires the experimental HTML-in-Canvas API, which is currently available only behind Chrome's Canvas Draw Element flag: chrome://flags/#canvas-draw-element.
