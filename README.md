@@ -1,7 +1,7 @@
 ### **Taegyu Lee**
 CS student, Korea
 
-[![Tokscale Stats](https://tokscale.ai/api/embed/postmelee/svg?compact=1)](https://tokscale.ai/u/postmelee)
+<!-- [![Tokscale Stats](https://tokscale.ai/api/embed/postmelee/svg?compact=1)](https://tokscale.ai/u/postmelee) -->
 
 #### Personal experience into shared understanding, and solve problems through software.
 Every project I build runs through [Hyper-Waterfall](https://github.com/postmelee/hyper-waterfall)
