@@ -1,7 +1,13 @@
 ### **Taegyu Lee**
-CS student, Korea
+CS student, Korea.
 
+<a href="https://developers.openai.com/community/codex-for-oss#gh-dark-mode-only"><img src="./assets/openai/OAI_OpenAI-Blossom_White.svg" alt="" width="42" height="42" align="absmiddle"></a><a href="https://developers.openai.com/community/codex-for-oss#gh-light-mode-only"><img src="./assets/openai/OAI_OpenAI-Blossom_Black.svg" alt="" width="42" height="42" align="absmiddle"></a>&nbsp;OpenAI Codex for Open Source — Selected Maintainer
+
+> [Program](https://developers.openai.com/community/codex-for-oss)
+· [Selection confirmation](./assets/codex-for-open-source/selection-confirmation-redacted.png)
 <!-- [![Tokscale Stats](https://tokscale.ai/api/embed/postmelee/svg?compact=1)](https://tokscale.ai/u/postmelee) -->
+
+--- 
 
 #### Personal experience into shared understanding, and solve problems through software.
 Every project I build runs through [Hyper-Waterfall](https://github.com/postmelee/hyper-waterfall)
