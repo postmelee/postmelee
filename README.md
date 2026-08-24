@@ -7,7 +7,7 @@ CS student, Korea.
 · [Selection confirmation](./assets/codex-for-open-source/selection-confirmation-redacted.png)
 <!-- [![Tokscale Stats](https://tokscale.ai/api/embed/postmelee/svg?compact=1)](https://tokscale.ai/u/postmelee) -->
 
-<a href="https://codex-usage-profile-stage5.meleeisdeveloping.chatgpt.site/api/share/postmelee"><img width="50%" src="https://codex-usage-profile-stage5.meleeisdeveloping.chatgpt.site/u/postmelee/card.png" alt="Codex usage profile" /></a>
+<a href="https://codex-usage-profile.meleeisdeveloping.chatgpt.site/api/share/postmelee"><img width="50%" src="https://codex-usage-profile.meleeisdeveloping.chatgpt.site/u/postmelee/card.png" alt="Codex usage profile" /></a>
 
 --- 
 
